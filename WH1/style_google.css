@@ -1,0 +1,82 @@
+#div1{
+  margin-top:40px;
+}
+#div2{
+  width:1190px;
+  height:36px;
+}
+#div3{
+  height:36px;
+  width:60px;
+}
+#div4{
+  height:36px;
+  width:40px;
+}
+#div5{
+  height:44px;
+  width:50px;
+}
+.divi{
+  display:inline-block;
+}
+#a1{
+  font-family:arial;
+  font-size:13px;
+  margin-left:1145px;:
+}
+#a2{
+  font-family:arial;
+  font-size:13px;
+  text-align: center;
+}
+#ff{
+  text-align:center;
+}
+img{
+  height:40px;
+  width:44px;
+  margin-top: 5px;
+}
+h1{
+  margin-top:80px;
+  font-size:90px;
+
+}
+#search{
+  width:450px;
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon3.png');
+  background-position: 8px 7px;
+  background-repeat: no-repeat;
+  padding: 10px 5px 10px 40px;
+  box-shadow: 0 8px 16px 0 rgba(22,172,242,0.2), 0 6px 20px 0 rgba(22,172,242,0.17);
+}
+.button {
+  border: none;
+  color: black;
+  padding: 8px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  margin: 4px 2px;
+}
+
+.button1 {
+  background-color:#dbdbdb;
+  color: black;
+  border: 2px solid #c9c6bb;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.15);
+  border-radius: 4px;
+}
+
+.button1:hover {
+  background-color: #7d7c7a;
+  color: white;
+}
