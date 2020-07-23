@@ -1,0 +1,86 @@
+#workmap1{
+  width:1350px;
+  height:341px;
+}
+.button{
+  border: 1px solid #ffa600;
+  border-radius:8px;
+  color: darkorange;
+  text-align:center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.button1{
+  border: 1px solid #ffa600;
+  border-radius:4px;
+  color: darkorange;
+  text-align:center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  padding: 6px 12px 6px 12px;
+}
+.button:hover {
+  background-color:#ffa600;
+  color: white;
+}
+.button1:hover {
+  background-color:#ffa600;
+  color: white;
+}
+.button2{
+  border: 2px solid #ffa600;
+  border-radius:2px;
+  color: darkorange;
+  text-align:center;
+  text-decoration: none;
+  font-size: 24px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  padding: 12px 24px 12px 24px;
+}
+.button2:hover {
+  background-color:#ffa600;
+  color: white;
+}
+.button4{
+  border: 1px solid #ffa600;
+  border-radius:8px;
+  background-color:#ffa600;
+  color: white;
+  text-align:center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.input{
+  box-sizing: border-box;
+  border: 2px solid #ffa600;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color:#ffdd9e;
+  margin-right:10px;
+}
+#img1{
+  width:60px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column1 {
+  float: left;
+  width: 63.34%;
+}
+.column2 {
+  float: left;
+  width: 36.31%;
+}
+#img2{
+  width:870px;
+}
+#img3{
+  width:489px;
+  height:582px;
+}
